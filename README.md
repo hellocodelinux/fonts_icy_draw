@@ -1,3 +1,6 @@
+⚠️ **ATTENTION!** ⚠️  
+This repository will be moved to: [https://gitea.gleeze.com/lu9dce](https://gitea.gleeze.com/lu9dce) 🚀
+
 # fonts_icy_draw 🎨
 
 These fonts are compatible with **THEDRAW** for MSDOS and **ICY_DRAW**.
