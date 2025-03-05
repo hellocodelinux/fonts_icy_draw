@@ -10,6 +10,8 @@ github is just a mirror
 
 These fonts are compatible with **THEDRAW** for MSDOS and **ICY_DRAW**.
 
+### Discord -> [https://discord.gg/Xn9xJFqd]
+
 ## About TDF Fonts 🖋️
 TDF (TheDraw Font) fonts are used to create text art and are compatible with both THEDRAW and ICY_DRAW. These fonts allow you to create intricate designs and text art with ease.
 
